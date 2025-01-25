@@ -1,1 +1,186 @@
-# safa
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Safa Al-Yasser Hussein - Resume</title>
+    <style>
+        /* General Reset */
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #f7f7f7;
+            color: #333;
+            line-height: 1.6;
+        }
+
+        .container {
+            width: 80%;
+            margin: auto;
+            padding: 20px;
+            background-color: #fff;
+            border-radius: 8px;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+            margin-top: 30px;
+        }
+
+        /* Header Section */
+        header {
+            text-align: center;
+            margin-bottom: 20px;
+            border-bottom: 2px solid #4CAF50;
+            padding-bottom: 10px;
+        }
+
+        header h1 {
+            font-size: 36px;
+            color: #4CAF50;
+            margin-bottom: 5px;
+        }
+
+        header h2 {
+            font-size: 24px;
+            color: #777;
+        }
+
+        /* Section Titles */
+        .section-title {
+            font-size: 22px;
+            color: #4CAF50;
+            margin-top: 30px;
+            border-bottom: 2px solid #4CAF50;
+            padding-bottom: 5px;
+        }
+
+        /* Contact Section */
+        .contact-info li {
+            font-size: 16px;
+            margin-bottom: 10px;
+        }
+
+        .contact-info li a {
+            color: #4CAF50;
+            text-decoration: none;
+        }
+
+        /* General Content */
+        ul {
+            list-style-type: none;
+            padding-left: 0;
+        }
+
+        li {
+            font-size: 16px;
+            line-height: 1.8;
+            margin-bottom: 10px;
+        }
+
+        /* Skills Section */
+        .skills li, .experience li {
+            margin-bottom: 10px;
+        }
+
+        /* Footer Section */
+        .footer {
+            text-align: center;
+            font-size: 14px;
+            color: #777;
+            margin-top: 40px;
+        }
+
+        .footer a {
+            color: #4CAF50;
+            text-decoration: none;
+        }
+
+        /* Responsive Design */
+        @media (max-width: 768px) {
+            .container {
+                width: 90%;
+                padding: 15px;
+            }
+
+            header h1 {
+                font-size: 28px;
+            }
+
+            header h2 {
+                font-size: 20px;
+            }
+
+            .section-title {
+                font-size: 20px;
+            }
+
+            .contact-info li {
+                font-size: 14px;
+            }
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <header>
+            <h1>Safa Al-Yasser Hussein</h1>
+            <h2>Computer Engineer</h2>
+        </header>
+
+        <section class="contact-info">
+            <h3 class="section-title">Contact Information</h3>
+            <ul>
+                <li><strong>Email:</strong> <a href="mailto:samosamar65@gmail.com">samosamar65@gmail.com</a></li>
+                <li><strong>Phone Number:</strong> +964 782 888 9175</li>
+                <li><strong>Languages:</strong> Arabic (Native), English (Advanced)</li>
+            </ul>
+        </section>
+
+        <section class="professional-summary">
+            <h3 class="section-title">Professional Summary</h3>
+            <p>A highly motivated and detail-oriented Computer Engineer with a strong background in software development, graphic design, and academic support. Skilled in programming tools and creative design, with a proven track record of delivering high-quality results in both independent and team environments. My ability to combine technical expertise and creative skills has enabled me to succeed in multiple roles, including freelancing, academic assistance, and retail operations.</p>
+        </section>
+
+        <section class="skills">
+            <h3 class="section-title">Skills and Expertise</h3>
+            <ul>
+                <li><strong>Technical Skills:</strong> Proficient in programming languages such as C++, Python, and MATLAB, with experience in developing technical solutions and academic projects. Ability to analyze and visualize data using advanced tools.</li>
+                <li><strong>Design Skills:</strong> Experienced in graphic design tools such as Adobe Photoshop and Canva, creating professional and visually appealing materials.</li>
+                <li><strong>Office Software:</strong> Advanced knowledge of Microsoft Office (Word, Excel, PowerPoint), with the ability to create documents, presentations, and spreadsheets.</li>
+                <li><strong>Personal Skills:</strong> Strong problem-solving and critical thinking skills. Excellent communication skills in both Arabic and English. Ability to work effectively under pressure and meet tight deadlines.</li>
+            </ul>
+        </section>
+
+        <section class="experience">
+            <h3 class="section-title">Professional Experience</h3>
+            <ul>
+                <li><strong>Freelance Designer:</strong> Collaborated with clients to design custom graphic materials, including branding materials, brochures, and social media designs. Managed multiple projects simultaneously, ensuring timely delivery and client satisfaction.</li>
+                <li><strong>Private Math Tutor in Secondary Education Institutes:</strong> Provided one-on-one tutoring sessions to high school students to improve their skills in mathematics. Simplified complex mathematical concepts for students with varying levels of ability. Assisted students in exam preparation, resulting in high success rates.</li>
+                <li><strong>Designer and Cashier at a Library:</strong> Designed promotional materials and managed visual layouts for advertisements and library-related projects. Handled cashier operations, ensuring accuracy in financial transactions and providing excellent customer service.</li>
+            </ul>
+        </section>
+
+        <section class="education">
+            <h3 class="section-title">Education</h3>
+            <ul>
+                <li><strong>Bachelor's Degree in Computer Engineering</strong> - Al-Mustansiriya University, College of Engineering (Expected Graduation Year: 2025)</li>
+            </ul>
+        </section>
+
+        <section class="certificates">
+            <h3 class="section-title">Certificates</h3>
+            <p>No certificates currently.</p>
+        </section>
+
+        <div class="footer">
+            <p>&copy; 2025 Safa Al-Yasser Hussein. All Rights Reserved.</p>
+        </div>
+
+    </div>
+
+</body>
+</html>
